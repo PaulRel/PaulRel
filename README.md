@@ -1,7 +1,7 @@
 # 👋 Salut !
 :woman_technologist: Je suis actuellement en troisième année de licence MIAGE.
 
-⚡ J'apprends en autodidacte la programmation web notamment JavaScript et je continue d'améliorer mon jeu codé en Java que j'avais implémenté dans le cadre de mon cours de Java-Objet
+⚡ J'apprends en autodidacte la programmation web notamment le langage JavaScript et je continue d'améliorer mon jeu codé en Java que j'avais implémenté dans le cadre de mon cours de Java-Objet
 ## Ce qui me passionne
 - 🌱 Apprendre de nouveaux langages et prendre en main de nouveaux logiciels
 - 😃 Approfondir des notions enseignées
