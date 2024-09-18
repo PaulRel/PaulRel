@@ -1,5 +1,5 @@
 # 👋 Salut !
-:woman_technologist: Je suis actuellement en troisième année de licence MIAGE.
+:woman_technologist: Je suis actuellement en première année de master MIAGE.
 
 ⚡ J'apprends en autodidacte la programmation web notamment le langage JavaScript et je continue d'améliorer mon jeu codé en Java que j'avais implémenté dans le cadre de mon cours de Java-Objet
 ## Ce qui me passionne
