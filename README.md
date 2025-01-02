@@ -1,10 +1,11 @@
 # 👋 Salut !
 :woman_technologist: Je suis actuellement en première année de master MIAGE.
 
-⚡ J'apprends en autodidacte la programmation web notamment le langage JavaScript et je continue d'améliorer mon jeu codé en Java que j'avais implémenté dans le cadre de mon cours de Java-Objet
+⚡ J'apprends en autodidacte la programmation web notamment le langage JavaScript et je développe un site de vente en ligne en dans le cadre de ma formation.
 ## Ce qui me passionne
 - 🌱 Apprendre de nouveaux langages et prendre en main de nouveaux logiciels
 - 😃 Approfondir des notions enseignées
+- 💡 Développer des modèles Python de prédiction en Machine Learning
 - 🔍 Sciences des données : nettoyer les bases de données, les analyser, en faire ressortir l'important, résoudre des problèmes avec du code
 - 🔗 Appliquer mes connaissances en mathématiques dans le domaine de l'informatique
 
