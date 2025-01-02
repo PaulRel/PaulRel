@@ -1,7 +1,7 @@
 # 👋 Salut !
 :woman_technologist: Je suis actuellement en première année de master MIAGE.
 
-⚡ J'apprends en autodidacte la programmation web notamment le langage JavaScript et je développe un site de vente en ligne en dans le cadre de ma formation.
+⚡ J'apprends en autodidacte la programmation web notamment le langage JavaScript et je développe actuellement un site de vente en ligne en java dans le cadre de ma formation (interface javafx).
 ## Ce qui me passionne
 - 🌱 Apprendre de nouveaux langages et prendre en main de nouveaux logiciels
 - 😃 Approfondir des notions enseignées
