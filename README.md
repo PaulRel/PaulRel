@@ -1,7 +1,7 @@
 # 👋 Salut !
 :woman_technologist: Je suis actuellement en deuxième année de master MIAGE.
 
-⚡ J'apprends en autodidacte la programmation web (full stack.
+⚡ J'apprends en autodidacte la programmation web (full stack).
 ## Ce qui me passionne
 - 🌱 Apprendre de nouveaux langages et prendre en main de nouveaux logiciels
 - 😃 Approfondir des notions enseignées
